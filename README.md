@@ -2,7 +2,7 @@
 
 ## Contributors
 
-Angela Tabafunda, Catherine Mitchell, Ashwini Hegde
+Ashwini Hegde, Catherine Mitchell, Angela Tabafunda
 
 ## Project Introduction
 
